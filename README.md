@@ -1,2 +1,7 @@
-# Commercio-Wallet-App
-Repository to make issues about Commercio Wallet App
+# Commercio Wallet App
+
+You can download and tests application from 
+
+https://apps.apple.com/it/app/commerc-io/id1397387586
+
+
