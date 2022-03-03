@@ -23,6 +23,6 @@ Contribuors are appreciated.
 
 Fell free to open issue [here](https://github.com/commercionetwork/Commercio-Wallet-App/issues)  
 
-Attention : This is not a customer service area. The app is free usage as it is 
+Attention : This is not an Online customer service area. The app is free usage as it is !
 
 Our staff will examine any type of issue and will reply when possible following our internal devloping queue
