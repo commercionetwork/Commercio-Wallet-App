@@ -5,7 +5,7 @@ Keep Total Control and stake your tokens in an NON custodial wallet
 
 Warning You and only You are Responsible for your security 
 
-See App [TOS]()   
+See App [TOS]( https://commerc.io/en/terms-of-service/)   
 
 
 ## Download App
@@ -17,10 +17,8 @@ You can download and tests application from
 [Google play store for Android device](https://play.google.com/store/apps/details?id=io.commerc.preview.one&hl=it&gl=US)
 
 
+View this video for basic instruction https://www.youtube.com/watch?v=VybGb_qY5xE
 
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/watch?v=mEgnjxWh6lI?autoplay=1&origin=http://example.com"
-  frameborder="0"/>
 
 
 ## Suggest feature / report bug
