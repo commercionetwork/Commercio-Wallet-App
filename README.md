@@ -17,7 +17,7 @@ You can download and tests application from
 [Google play store for Android device](https://play.google.com/store/apps/details?id=io.commerc.preview.one&hl=it&gl=US)
 
 
-View this video for basic instruction https://www.youtube.com/watch?v=VybGb_qY5xE
+ <a href="https://www.youtube.com/watch?v=mEgnjxWh6lI">View this video for basic instructions</a>
 
 
 
