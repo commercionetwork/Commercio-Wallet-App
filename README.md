@@ -20,7 +20,7 @@ You can download and tests application from
 ---
 
 
- <a href="https://www.youtube.com/watch?v=mEgnjxWh6lI" target="_blank">View this video for basic instructions</a>
+ <a href="https://www.youtube.com/watch?v=mEgnjxWh6lI" target="_blank" >View this video for basic instructions</a>
 
 
 
