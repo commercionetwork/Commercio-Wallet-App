@@ -19,7 +19,7 @@ You can download and tests application from
 
 ## Suggest feature / report bug
 
-Contributros are appreciated. 
+Contribuors are appreciated. 
 
 Fell free to open issue [here](https://github.com/commercionetwork/Commercio-Wallet-App/issues)  
 
