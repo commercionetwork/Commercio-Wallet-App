@@ -12,9 +12,9 @@ See App [TOS]()
 
 You can download and tests application from 
 
-IOS : https://apps.apple.com/it/app/commerc-io/id1397387586
+[Appe store for IOS device](https://apps.apple.com/it/app/commerc-io/id1397387586)
 
-Android : https://play.google.com/store/apps/details?id=io.commerc.preview.one&hl=it&gl=US
+[Google play store for Android device](https://play.google.com/store/apps/details?id=io.commerc.preview.one&hl=it&gl=US)
 
 
 ## Suggest feature / report bug
