@@ -10,7 +10,7 @@ See App [TOS]( https://commerc.io/en/terms-of-service/)
 
 ## Download App
 
-You can download and tests application from 
+You can download and tests the application from 
 
 [Appe store for IOS device](https://apps.apple.com/it/app/commerc-io/id1397387586)
 
@@ -26,10 +26,10 @@ You can download and tests application from
 
 ## Suggest feature / report bug
 
-Contribuors are appreciated. 
+Contributors are appreciated. 
 
-Fell free to open issue [here](https://github.com/commercionetwork/Commercio-Wallet-App/issues)  
+Fell free to open an issue [here](https://github.com/commercionetwork/Commercio-Wallet-App/issues)  
 
-Attention : This is not an Online customer service area. The app is free usage as it is !
+Attention : This is not an Online customer service area. The app is free to use as it is !
 
 Our staff will examine any type of issue and will reply when possible following our internal devloping queue
