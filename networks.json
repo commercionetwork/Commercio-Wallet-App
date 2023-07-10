@@ -1,0 +1,234 @@
+[
+    {
+        "id": "commercio-mainnet",
+        "name": "Commercio",
+        "http_url": "https://lcd-mainnet.commercio.network",
+        "grpc_url": "http://grpc-mainnet.commercio.network:9090",
+        "explorer_url": "https://mainnet.commercio.network",
+        "bech32_hrp": "did:com:",
+        "tokens": [
+            "ucommercio",
+            "uccc"
+        ],
+        "sponsor": "did:com:valoper1fkg9n68ww7yrcr69sq58830nqqakywahxvu2mu",
+        "primary": true,
+        "enabled": true,
+        "can_change_enabled_status": false,
+        "default_coins": [
+            {
+                "name": "COM",
+                "symbol": "COM",
+                "price": "-"
+            },
+            {
+                "name": "CCC",
+                "symbol": "CCC",
+                "price": "1.0"
+            }
+        ],
+        "theme": {
+            "primary_color": "0xFF2196F3",
+            "mainnet_color": "0xFF2196F3",
+            "testnet_color": "0xFFFF4D4D",
+            "logo": {
+                "assets": "assets/images/commercio_logo.png",
+                "url": "https://avatars.githubusercontent.com/u/45789950?s=200&v=4"
+            },
+            "logo_named": {
+                "assets": "assets/images/commercio_named_only_logo.png"
+            }
+        },
+        "fees": {
+            "default_gas_limit": 1000000,
+            "gas_price_steps": {
+                "default": 0.01
+            },
+            "denom": "uccc"
+        }
+    },
+    {
+        "id": "commercio-devnet",
+        "name": "Commercio",
+        "http_url": "https://lcd-demo.commercio.network",
+        "grpc_url": "http://grpc-demo.commercio.network:9090",
+        "explorer_url": "https://devnet.commercio.network",
+        "bech32_hrp": "did:com:",
+        "tokens": [
+            "ucommercio",
+            "uccc"
+        ],
+        "sponsor": "",
+        "primary": false,
+        "enabled": true,
+        "can_change_enabled_status": true,
+        "cw20_base_id": 7,
+        "cw_atomic_swap_id": 4,
+        "default_coins": [
+            {
+                "name": "COM",
+                "symbol": "COM",
+                "price": "-"
+            },
+            {
+                "name": "CCC",
+                "symbol": "CCC",
+                "price": "1.0"
+            }
+        ],
+        "theme": {
+            "primary_color": "0xFF2196F3",
+            "mainnet_color": "0xFF2196F3",
+            "testnet_color": "0xFFFF4D4D",
+            "logo": {
+                "assets": "assets/images/commercio_logo.png",
+                "url": "https://avatars.githubusercontent.com/u/45789950?s=200&v=4"
+            },
+            "logo_named": {
+                "assets": "assets/images/commercio_named_only_logo.png"
+            }
+        },
+        "fees": {
+            "default_gas_limit": 1000000,
+            "gas_price_steps": {
+                "default": 0.01
+            },
+            "denom": "uccc"
+        }
+    },
+    {
+        "id": "commercio-testnet",
+        "name": "Commercio",
+        "http_url": "https://lcd-testnet.commercio.network",
+        "grpc_url": "http://grpc-testnet.commercio.network:9090",
+        "explorer_url": "https://testnet.commercio.network",
+        "bech32_hrp": "did:com:",
+        "tokens": [
+            "ucommercio",
+            "uccc"
+        ],
+        "sponsor": "did:com:valoper1ttxcnevaxlk58u4uuec2n7cm44rk9tsgmyj4hg",
+        "primary": false,
+        "enabled": true,
+        "can_change_enabled_status": true,
+        "default_coins": [
+            {
+                "name": "COM",
+                "symbol": "COM",
+                "price": "-"
+            },
+            {
+                "name": "CCC",
+                "symbol": "CCC",
+                "price": "1.0"
+            }
+        ],
+        "theme": {
+            "primary_color": "0xFF2196F3",
+            "mainnet_color": "0xFF2196F3",
+            "testnet_color": "0xFFFF4D4D",
+            "logo": {
+                "assets": "assets/images/commercio_logo.png",
+                "url": "https://avatars.githubusercontent.com/u/45789950?s=200&v=4"
+            },
+            "logo_named": {
+                "assets": "assets/images/commercio_named_only_logo.png"
+            }
+        },
+        "fees": {
+            "default_gas_limit": 1000000,
+            "gas_price_steps": {
+                "default": 0.01
+            },
+            "denom": "uccc"
+        }
+    },
+    {
+        "id": "osmosis-mainnet",
+        "name": "Osmosis",
+        "http_url": "https://lcd.osmosis.zone",
+        "grpc_url": "http://grpc.osmosis.zone:9090",
+        "explorer_url": "https://www.mintscan.io/osmosis",
+        "bech32_hrp": "osmo",
+        "tokens": [
+            "uosmo"
+        ],
+        "sponsor": "",
+        "primary": true,
+        "enabled": false,
+        "can_change_enabled_status": true,
+        "default_coins": [
+            {
+                "name": "OSMO",
+                "symbol": "OSMO",
+                "price": "-"
+            }
+        ],
+        "theme": {
+            "primary_color": "0xFF5C03AF",
+            "mainnet_color": "0xFF2196F3",
+            "testnet_color": "0xFFFF4D4D",
+            "logo": {
+                "assets": "assets/images/osmosis/osmosis_logo.png"
+            },
+            "logo_named": {
+                "assets": "assets/images/osmosis/osmosis_logo.png"
+            }
+        },
+        "fees": {
+            "default_gas_limit": 350000,
+            "url": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/cosmos/osmosis.json",
+            "gas_price_steps": {
+                "default": 0.025,
+                "low": 0.0025,
+                "average": 0.025,
+                "high": 0.04
+            },
+            "denom": "uosmo"
+        }
+    },
+    {
+        "id": "osmo-com-dev",
+        "name": "Osmosis",
+        "http_url": "https://134.209.250.76:1317",
+        "grpc_url": "http://134.209.250.76:9090",
+        "explorer_url": "http://134.209.250.76:1317",
+        "bech32_hrp": "osmo",
+        "tokens": [
+            "uosmo"
+        ],
+        "sponsor": "",
+        "primary": true,
+        "enabled": false,
+        "can_change_enabled_status": true,
+        "logo_assets": "assets/images/osmosis/osmosis_logo.png",
+        "default_coins": [
+            {
+                "name": "OSMO",
+                "symbol": "OSMO",
+                "price": "-"
+            }
+        ],
+        "theme": {
+            "primary_color": "0xFF5C03AF",
+            "mainnet_color": "0xFF2196F3",
+            "testnet_color": "0xFFFF4D4D",
+            "logo": {
+                "assets": "assets/images/osmosis/osmosis_logo.png"
+            },
+            "logo_named": {
+                "assets": "assets/images/osmosis/osmosis_logo.png"
+            }
+        },
+        "fees": {
+            "default_gas_limit": 350000,
+            "url": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/cosmos/osmosis.json",
+            "gas_price_steps": {
+                "default": 0.025,
+                "low": 0.0025,
+                "average": 0.025,
+                "high": 0.04
+            },
+            "denom": "uosmo"
+        }
+    }
+]
