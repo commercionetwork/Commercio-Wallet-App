@@ -11,7 +11,7 @@
             "uccc"
         ],
         "sponsor": "did:com:valoper1fkg9n68ww7yrcr69sq58830nqqakywahxvu2mu",
-        "primary": true,
+        "mainnet": true,
         "enabled": true,
         "can_change_enabled_status": false,
         "default_coins": [
@@ -30,7 +30,6 @@
         ],
         "theme": {
             "primary_color": "0xFF2196F3",
-            "mainnet_color": "0xFF2196F3",
             "testnet_color": "0xFFFF4D4D",
             "logo": {
                 "assets": "assets/images/commercio_logo.png",
@@ -60,7 +59,7 @@
             "uccc"
         ],
         "sponsor": "",
-        "primary": false,
+        "mainnet": false,
         "enabled": true,
         "can_change_enabled_status": true,
         "cw20_base_id": 7,
@@ -81,7 +80,6 @@
         ],
         "theme": {
             "primary_color": "0xFF2196F3",
-            "mainnet_color": "0xFF2196F3",
             "testnet_color": "0xFFFF4D4D",
             "logo": {
                 "assets": "assets/images/commercio_logo.png",
@@ -111,7 +109,7 @@
             "uccc"
         ],
         "sponsor": "did:com:valoper1ttxcnevaxlk58u4uuec2n7cm44rk9tsgmyj4hg",
-        "primary": false,
+        "mainnet": false,
         "enabled": true,
         "can_change_enabled_status": true,
         "default_coins": [
@@ -130,7 +128,6 @@
         ],
         "theme": {
             "primary_color": "0xFF2196F3",
-            "mainnet_color": "0xFF2196F3",
             "testnet_color": "0xFFFF4D4D",
             "logo": {
                 "assets": "assets/images/commercio_logo.png",
@@ -159,7 +156,7 @@
             "uosmo"
         ],
         "sponsor": "",
-        "primary": true,
+        "mainnet": true,
         "enabled": false,
         "can_change_enabled_status": true,
         "default_coins": [
@@ -172,7 +169,6 @@
         ],
         "theme": {
             "primary_color": "0xFF5C03AF",
-            "mainnet_color": "0xFF2196F3",
             "testnet_color": "0xFFFF4D4D",
             "logo": {
                 "assets": "assets/images/osmosis/osmosis_logo.png"
@@ -204,7 +200,7 @@
             "uosmo"
         ],
         "sponsor": "",
-        "primary": true,
+        "mainnet": false,
         "enabled": false,
         "can_change_enabled_status": true,
         "logo_assets": "assets/images/osmosis/osmosis_logo.png",
@@ -218,7 +214,6 @@
         ],
         "theme": {
             "primary_color": "0xFF5C03AF",
-            "mainnet_color": "0xFF2196F3",
             "testnet_color": "0xFFFF4D4D",
             "logo": {
                 "assets": "assets/images/osmosis/osmosis_logo.png"
