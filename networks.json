@@ -58,7 +58,7 @@
             "ucommercio",
             "uccc"
         ],
-        "sponsor": "",
+        "sponsor": "did:com:valoper1mfddzjvr8vpeqdtm6fuay2nvnecuk9qaylfxd8",
         "mainnet": false,
         "enabled": true,
         "can_change_enabled_status": true,
@@ -79,7 +79,7 @@
             }
         ],
         "theme": {
-            "primary_color": "0xFF2196F3",
+            "primary_color": "0xFFFF0000",
             "testnet_color": "0xFFFF4D4D",
             "logo": {
                 "assets": "assets/images/commercio_logo.png",
