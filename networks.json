@@ -215,10 +215,12 @@
       "primary_color": "0xFFf4847c",
       "testnet_color": "0xFFf4847c",
       "logo": {
-        "assets": "assets/images/juno/JUNO_Logo_Red.png"
+        "assets": "assets/images/juno/JUNO_Logo_Red.png",
+        "url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/junotestnet/images/juno.png"
       },
       "logo_named": {
-        "assets": "assets/images/juno/JUNO_Logo_Red.png"
+        "assets": "assets/images/juno/JUNO_Logo_Red.png",
+         "url": "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/junotestnet/images/juno.png"
       }
     },
     "fees": {
