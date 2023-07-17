@@ -212,13 +212,13 @@
       }
     ],
     "theme": {
-      "primary_color": "0xFF5C03AF",
-      "testnet_color": "0xFFFF4D4D",
+      "primary_color": "0xFFf4847c",
+      "testnet_color": "0xFFf4847c",
       "logo": {
-        "assets": "assets/images/osmosis/osmosis_logo.png"
+        "assets": "assets/images/juno/JUNO_Logo_Red.png"
       },
       "logo_named": {
-        "assets": "assets/images/osmosis/osmosis_logo.png"
+        "assets": "assets/images/juno/JUNO_Logo_Red.png"
       }
     },
     "fees": {
