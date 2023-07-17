@@ -189,6 +189,46 @@
             "denom": "uosmo"
         }
     },
+{
+    "id": "juno-uni-6",
+    "name": "Juno Testnet",
+    "http_url": "https://api.uni.junonetwork.io",
+    "grpc_url": "juno-testnet-grpc.polkachu.com:12690",
+    "explorer_url": "https://testnet.mintscan.io/juno-testnet",
+    "bech32_hrp": "juno",
+    "tokens": [
+      "ujunox"
+    ],
+    "sponsor": "",
+    "mainnet": true,
+    "enabled": true,
+    "can_change_enabled_status": true,
+    "default_coins": [
+      {
+        "name": "JUNOT",
+        "symbol": "JUNOT",
+        "price": "-",
+        "denom": "ujunox"
+      }
+    ],
+    "theme": {
+      "primary_color": "0xFF5C03AF",
+      "testnet_color": "0xFFFF4D4D",
+      "logo": {
+        "assets": "assets/images/osmosis/osmosis_logo.png"
+      },
+      "logo_named": {
+        "assets": "assets/images/osmosis/osmosis_logo.png"
+      }
+    },
+    "fees": {
+      "default_gas_limit": 350000,
+      "gas_price_steps": {
+        "default": 0.025
+      },
+      "denom": "ujuno"
+    }
+  },
     {
         "id": "osmo-com-dev",
         "name": "Osmosis",
