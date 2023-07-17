@@ -62,8 +62,8 @@
         "mainnet": false,
         "enabled": true,
         "can_change_enabled_status": true,
-        "cw20_base_id": 7,
-        "cw_atomic_swap_id": 4,
+        "cw20_base_id": 11,
+        "cw_atomic_swap_id": 12,
         "default_coins": [
             {
                 "name": "COM",
