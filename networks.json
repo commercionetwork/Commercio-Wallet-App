@@ -4,7 +4,7 @@
         "name": "Commercio",
         "http_url": "https://lcd-mainnet.commercio.network",
         "grpc_url": "http://grpc-mainnet.commercio.network:9090",
-        "explorer_url": "https://mainnet.commercio.network",
+        "explorer_url": "https://mainnet.commercio.network/transactions/detail/",
         "bech32_hrp": "did:com:",
         "tokens": [
             "ucommercio",
@@ -52,7 +52,7 @@
         "name": "Commercio",
         "http_url": "https://lcd-testnet.commercio.network",
         "grpc_url": "http://grpc-testnet.commercio.network:9090",
-        "explorer_url": "https://testnet.commercio.network",
+        "explorer_url": "https://testnet.commercio.network/transactions/detail/",
         "bech32_hrp": "did:com:",
         "tokens": [
             "ucommercio",
@@ -100,7 +100,7 @@
         "name": "Commercio",
         "http_url": "https://lcd-demo.commercio.network",
         "grpc_url": "http://grpc-demo.commercio.network:9090",
-        "explorer_url": "https://devnet.commercio.network",
+        "explorer_url": "https://devnet.commercio.network/transactions/detail/",
         "bech32_hrp": "did:com:",
         "tokens": [
             "ucommercio",
@@ -150,7 +150,7 @@
         "name": "Osmosis",
         "http_url": "https://lcd.osmosis.zone",
         "grpc_url": "http://grpc.osmosis.zone:9090",
-        "explorer_url": "https://www.mintscan.io/osmosis",
+        "explorer_url": "https://www.mintscan.io/osmosis/txs/",
         "bech32_hrp": "osmo",
         "tokens": [
             "uosmo"
@@ -194,7 +194,7 @@
   "name": "Juno Testnet",
   "http_url": "https://api.uni.junonetwork.io",
   "grpc_url": "juno-testnet-grpc.polkachu.com:12690",
-  "explorer_url": "https://testnet.mintscan.io/juno-testnet",
+  "explorer_url": "https://testnet.mintscan.io/juno-testnet/txs/",
   "bech32_hrp": "juno",
   "tokens": [
     "ujunox"
@@ -237,7 +237,7 @@
         "name": "Osmosis",
         "http_url": "https://134.209.250.76:1317",
         "grpc_url": "http://134.209.250.76:9090",
-        "explorer_url": "http://134.209.250.76:1317",
+        "explorer_url": "http://134.209.250.76:1317/cosmos/tx/v1beta1/txs/",
         "bech32_hrp": "osmo",
         "tokens": [
             "uosmo"
