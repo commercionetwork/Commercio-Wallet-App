@@ -44,7 +44,7 @@
             "gas_price_steps": {
                 "default": 0.01
             },
-            "denom": "uccc"
+            "denom": "ucommercio"
         }
     },
     {
@@ -94,7 +94,7 @@
             "gas_price_steps": {
                 "default": 0.01
             },
-            "denom": "uccc"
+            "denom": "ucommercio"
         }
     },
     {
