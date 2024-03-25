@@ -3,7 +3,7 @@
         "id": "commercio-mainnet",
         "name": "Commercio",
         "http_url": "https://lcd-mainnet.commercio.network",
-        "grpc_url": "http://grpc-mainnet.commercio.network:9090",
+        "grpc_url": "144.76.63.218:9090",
         "explorer_url": "https://mainnet.commercio.network/transactions/detail/",
         "bech32_hrp": "did:com:",
         "tokens": [
@@ -147,7 +147,6 @@
             "denom": "ucommercio"
         }
     },
-   
     {
         "id": "juno-uni-6",
         "name": "Juno Testnet",
