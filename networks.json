@@ -196,6 +196,53 @@
     },
     "can_mint": []
   },
+ {
+    "id": "cosmoshub-4",
+    "name": "Cosmos Hub",
+    "http_url": "https://api.cosmos.nodestake.top",
+    "grpc_url": "http://grpc.cosmos.nodestake.top:9090",
+    "explorer_url": "https://www.mintscan.io/cosmos/tx/",
+    "bech32_hrp": "cosmos",
+    "tokens": [
+      "uatom"
+    ],
+    "sponsor": "cosmosvaloper1fqzqejwkk898fcslw4z4eeqjzesynvrdfr5hte",
+    "mainnet": true,
+    "enabled": true,
+    "can_change_enabled_status": true,
+    "default_coins": [
+      {
+        "name": "ATOM",
+        "symbol": "ATOM",
+        "price": "-",
+        "denom": "uatom"
+      }
+    ],
+    "theme": {
+      "primary_color": "0xFF2E3148",
+      "testnet_color": "0xFF2E3148",
+      "logo": {
+        "assets": "assets/images/cosmos/cosmos_logo.png",
+        "url": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/cosmoshub/uatom.png"
+      },
+      "logo_named": {
+        "assets": "assets/images/cosmos/cosmos_logo.png",
+        "url": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/cosmoshub/chain.png"
+      }
+    },
+    "fees": {
+      "default_gas_limit": 350000,
+      "url": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/cosmos/cosmoshub.json",
+      "gas_price_steps": {
+        "default": 0.025,
+        "low": 0.005,
+        "average": 0.025,
+        "high": 0.03
+      },
+      "denom": "uatom"
+    },
+    "can_mint": []
+  },
 
     
     {
