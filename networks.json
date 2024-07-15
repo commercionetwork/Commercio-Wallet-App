@@ -44,8 +44,18 @@
             "gas_price_steps": {
                 "default": 0.01
             },
-            "denom": "ucommercio"
-        }
+            "denom": "ucommercio"    
+        },
+      "can_mint": [
+         "did:com:1cjnpack2jqngdhj9cap23h4n3dmxcvqswgyrlc",
+         "did:com:19ut49kk9nyd09kl2874e9ew5zgv5ys8kczdw25",
+         "did:com:10aauv9x2q7h04m9g2jd7lxqtsh3lqsaa9pyqhr",
+         "did:com:15g3pvt8rk3hcxhhkyzhqr620kygljc9cmqxwxf",
+         "did:com:1zzmq5v44zkx4v70lf858hkfzf96vfq65v30cru",
+         "did:com:1fy2kserfqf800skzpw95awa57zwqxsrwwgf5lv",
+         "did:com:1jywl63g45qahysytsylmsalnlsa4djlvtmvjgh",
+         "did:com:1q3gspf0zjscfntm792c2d8vkgnelm2fr3rm527"
+      ]        
     },
     {
         "id": "commercio-testnet",
