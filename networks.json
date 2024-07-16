@@ -168,8 +168,8 @@
 {
     "id": "osmosis-mainnet",
     "name": "Osmosis",
-    "http_url": "https://lcd.osmosis.zone",
-    "grpc_url": "http://grpc.osmosis.zone:9090",
+    "http_url": "https://46.4.37.188:1317",
+    "grpc_url": "http://46.4.37.188:9090",
     "explorer_url": "https://www.mintscan.io/osmosis/txs/",
     "bech32_hrp": "osmo",
     "tokens": [
