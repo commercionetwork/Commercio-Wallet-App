@@ -49,7 +49,8 @@
       "can_mint": [
          "did:com:1cjnpack2jqngdhj9cap23h4n3dmxcvqswgyrlc",
          "did:com:1q3gspf0zjscfntm792c2d8vkgnelm2fr3rm527"
-      ]        
+      ],
+    "swap_contract_address": "did:com:1hulx7cgvpfcvg83wk5h96sedqgn72n026w6nl47uht554xhvj9nstkf239"        
     },
     {
         "id": "commercio-testnet",
