@@ -99,7 +99,12 @@
                 "default": 0.01
             },
             "denom": "ucommercio"
-        }
+        },
+        "can_mint": [
+           "did:com:1cjnpack2jqngdhj9cap23h4n3dmxcvqswgyrlc"
+    ],
+    "swap_contract_address": "did:com:1xsmqvl8lqr2uwl50aetu0572rss9hrza5kddpfj9ky3jq80fv2tsffac7d"
+       
     },
     {
         "id": "commercio-devnet",
@@ -149,7 +154,15 @@
                 "default": 0.01
             },
             "denom": "ucommercio"
-        }
+        },
+        "can_mint": [
+           "did:com:1cjnpack2jqngdhj9cap23h4n3dmxcvqswgyrlc"
+    ],
+    "swap_contract_address": "did:com:1gyjgnzevtqt4pqgrk5jfw0gulnp53sh8fvn3y64g0ms8le6dvatsq0hljt"
+
+
+
+        
     },
 {
     "id": "osmosis-mainnet",
